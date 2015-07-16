@@ -26,7 +26,7 @@ endif
 endif
 
 %:
-	dh $@
+	dh $@ --with autotools-dev,python2
 
 .PHONY: override_dh_auto_configure
 override_dh_auto_configure:

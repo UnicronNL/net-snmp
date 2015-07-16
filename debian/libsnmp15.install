@@ -1,4 +1,4 @@
-usr/lib/lib*.so.*
+usr/lib/*/lib*.so.*
 usr/bin/net-snmp-config
 usr/bin/net-snmp-cert
 usr/share/man/man1/net-snmp-config.1
